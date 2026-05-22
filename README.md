@@ -51,7 +51,7 @@ python jogo_forca_interface_grafica.py
 
 As palavras estão definidas em uma lista dentro de cada arquivo. Para adicionar novas palavras, localize a variável `words` e insira os termos desejados:
 
-**Em `jogo_forca_terminal.py` (linha 4) e `jogo_forca_interface_grafica.py` (linha 16):**
+**Em `jogo_forca_terminal.py` (linha 4) e `jogo_forca_interface_grafica.py` (linha 22):**
 
 ```python
 words = [
